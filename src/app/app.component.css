@@ -1,0 +1,12 @@
+.assignment2 {
+  display: flex;
+  flex-flow: column;
+  margin-left: 20px;
+  margin-top: 10px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+h3 {
+  color: dodgerblue;
+}
